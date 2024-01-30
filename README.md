@@ -8,7 +8,7 @@
   <ul>
     <li>Nome de usuário;</li>
     <li>Email;</li>
-    <li>Senha;</li>
+    <li>Senha.</li>
   </ul>
 </ul>
 <h3>Observações:</h3>
