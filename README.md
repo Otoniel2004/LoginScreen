@@ -13,7 +13,7 @@
 </ul>
 <h3>Observações:</h3>
 <ul>
-  <li><p>Antes de utilizar a API certifiquece de colocar a URL JDBC, Username (Padrão: root) e Senha (Sua senha definida no mySQL) no arquivo de texto "application.properties"</p>
+  <li><p>Antes de utilizar a API certifique-se de colocar a URL JDBC, Username (Padrão: root) e Senha (Sua senha definida no mySQL) no arquivo de texto "application.properties"</p>
   <p>Caminho: (<code>src\main\resources</code>)</p></li>
 </ul>
 <h3>URL Base Padrão:</h3>
