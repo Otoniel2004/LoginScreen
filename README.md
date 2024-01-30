@@ -18,5 +18,6 @@
 </ul>
 <h3>URL Base Padrão:</h3>
 <ul>
-     <li><h4>http//localhost:8080</h4></li>
+  <li><h4>http//localhost:8080</h4></li>
+  <li><h4>http//localhost:8080/users</h4></li>
 </ul>
